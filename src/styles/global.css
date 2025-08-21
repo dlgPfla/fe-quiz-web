@@ -1,0 +1,6 @@
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,Segoe UI,Apple SD Gothic Neo,Pretendard,Arial}
+a{color:inherit;text-decoration:none}
+button{font:inherit}
+.container{width:var(--container);margin:0 auto;padding:24px 0}
